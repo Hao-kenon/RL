@@ -3,6 +3,8 @@
 先运行 scripts/download_data.py 准备数据。
 每 eval_freq 轮做一次贪婪评估（关闭探索），观察泛化性能。
 """
+
+# 训练评估
 import argparse
 import os
 
