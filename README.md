@@ -1,6 +1,6 @@
 ---
 title: "基于深度强化学习的智能推荐与决策优化"`
-author: konghao
+author: "konghao"
 date: 2026-11-1
 ---
 
